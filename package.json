@@ -1,0 +1,23 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexBrazza/nodeAtelier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexBrazza/nodeAtelier/issues"
+  },
+  "homepage": "https://github.com/alexBrazza/nodeAtelier#readme",
+  "description": ""
+}
